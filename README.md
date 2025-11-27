@@ -63,16 +63,5 @@ This report enables teams to:
 - Boost conversion rates by addressing funnel leakage  
 - Schedule ads during high-engagement windows  
 - Prioritize high-ROI ad formats  
-
----
-
-## 📎 Files Included  
-(Your Power BI `.pbix` file will go here.)
-
----
-
-## 📬 Contact  
-For any queries, feel free to reach out.
-
 ---
 
